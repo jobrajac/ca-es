@@ -1,2 +1,4 @@
 # ca-es
-Cellular Automata through Evolution Strategies and Hebbian Plasticity
+Regeneration and Generalization of Cellular Automata through Evolution Strategies
+
+Code will be published after the paper has been reviewed.
